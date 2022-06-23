@@ -1,5 +1,5 @@
 **Introduction to Git**
 
-Git is a version control system for software development, but can be used for a wide variety of projects, small or large
+Git is a version control system for software development, but can be used for a wide variety of projects, technical or non-technical.
 
-Main goal: track changes over time
+GIT's main goal: efficiently track changes over time
